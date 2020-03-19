@@ -2,10 +2,12 @@
 
 int main() {
 	
-	// 1003
 	int a,b,soma;
+	
 	scanf("%d %d", &a, &b);
+	
 	soma = a + b;
+	
 	printf("SOMA = %d\n", soma);
 	
 return 0;
